@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Maze_Project.Sprites.Button">
+    <Position X="11.75" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAgAAIAAAQAQAAAAAAAAAIACIQCAAA=</HashCode>
+      <FileName>Sprites\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Sprites.Cell">
+    <Position X="4.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACIAAAAEoAEAAAAAAEAAAAAAAAAEAAAAIAAEAABAAA=</HashCode>
+      <FileName>Sprites\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Sprites.Cells">
+    <Position X="6" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAACAAAAEAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Cells.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Sprites.Hex_Cell">
+    <Position X="7.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACIAAAAEpAAAAAAAAGAAAAAAAAAAAAAAIIAEAABBAA=</HashCode>
+      <FileName>Sprites\Hex_Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Sprites.Opponent">
+    <Position X="8.75" Y="13" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAABwCAAAACEAAQgAgAAAAAEAA4AAIBAAA=</HashCode>
+      <FileName>Sprites\Opponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Sprites.Player">
+    <Position X="3.75" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAABBBgAAAAAAAACQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Sprites.PowerUp">
+    <Position X="11.75" Y="2" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="Maze_Project.Sprites.PowerUp.PowerUpTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sprites\PowerUp.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgggAAIAAAAAACBAAgAAAAAAEAAABAE=</HashCode>
+      <FileName>Sprites\PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Sprites.Sprite">
+    <Position X="6" Y="9.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAABAgwACIAIAAAAAhAAgAAAAAQAAgAAAE=</HashCode>
+      <FileName>Sprites\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.Game1">
+    <Position X="0.5" Y="0.75" Width="3" />
+    <NestedTypes>
+      <Enum Name="Maze_Project.Game1.ScreenState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Maze_Project.Game1.GridType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>oAWOkVABSQIEC0AgEJQAMogAoQJIRIgJAGIkgQyQAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Maze_Project.Sprites.Guidance_Orb">
+    <Position X="15.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAAAAgIAAAKAEACQAChAAAAAAAIYAAAAAAA=</HashCode>
+      <FileName>Sprites\Guidance Orb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze_Project.RotatedCollisionRectangle">
+    <Position X="17.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAABAAAAIAAAAgAAEMEAAgAAAABAAIQAAgAYIA=</HashCode>
+      <FileName>RotatedRectangleCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

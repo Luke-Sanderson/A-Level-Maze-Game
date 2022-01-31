@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Maze Project/Maze Project/Content/beePixelNoB.png</File>
+    <File>D:/Maze Project/Maze Project/Content/bees-removebg-preview.png</File>
+    <File>D:/Maze Project/Maze Project/Content/Blue Gem SpriteSheet.png</File>
+    <File>D:/Maze Project/Maze Project/Content/File.spritefont</File>
+    <File>D:/Maze Project/Maze Project/Content/flagSpritesheet.png</File>
+    <File>D:/Maze Project/Maze Project/Content/Green Gem SpriteSheet.png</File>
+    <File>D:/Maze Project/Maze Project/Content/MenuFont.spritefont</File>
+    <File>D:/Maze Project/Maze Project/Content/TimerFont.spritefont</File>
+    <File>D:/Maze Project/Maze Project/Content/Wooden Texture - pexels.jpeg</File>
+    <File>D:/Maze Project/Maze Project/Content/yellowGemTexture.png</File>
+  </SourceFiles>
+</SourceFileCollection>

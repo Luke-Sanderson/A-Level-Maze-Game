@@ -1,0 +1,414 @@
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+\\newmancollege.net\DFSR\StudentAreas_B\Enrolled2019\T0065374\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\OneDrive_2020-03-17\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beesSpritesheet.xnb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beesSpritesheet.xnb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions)\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beesSpritesheet.xnb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\user\Downloads\Maze Project (Without Pixel Collsion additions) - Copy\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\beePixelNoB.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\beesSpritesheet.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\flagSpritesheet.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Wooden Texture - pexels.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+C:\Users\t0065374\Downloads\OneDrive_2020-09-11\Maze Project Backup 11-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Blue Gem SpriteSheet.xnb
+C:\Users\user\Downloads\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Green Gem SpriteSheet.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Blue Gem SpriteSheet.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Green Gem SpriteSheet.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\beePixelNoB.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\bees-removebg-preview.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Blue Gem SpriteSheet.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\File.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\flagSpritesheet.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Green Gem SpriteSheet.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\TimerFont.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Wooden Texture - pexels.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Blue Gem SpriteSheet.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Green Gem SpriteSheet.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+D:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+E:\Maze Project Backup 29-09-2020\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Yellow Gem SpriteSheet.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Blue Gem SpriteSheet.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Green Gem SpriteSheet.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Yellow Gem SpriteSheet.xnb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+E:\Maze Project Backup 05-01-2021\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Blue Gem SpriteSheet.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Green Gem SpriteSheet.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Yellow Gem SpriteSheet.xnb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+E:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+E:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+E:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+E:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\beePixelNoB.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\bees-removebg-preview.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Blue Gem SpriteSheet.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\File.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\flagSpritesheet.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Green Gem SpriteSheet.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\MenuFont.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\TimerFont.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Wooden Texture - pexels.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Content\Yellow Gem SpriteSheet.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Blue Gem SpriteSheet.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Green Gem SpriteSheet.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\yellowGemTexture.xnb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+D:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+D:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+D:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+D:\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
+E:\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\yellowGemTexture.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Yellow Gem SpriteSheet.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\beePixelNoB.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\bees-removebg-preview.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Blue Gem SpriteSheet.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\flagSpritesheet.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Green Gem SpriteSheet.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\TimerFont.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\Wooden Texture - pexels.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Content\yellowGemTexture.xnb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\Maze Project.pdb
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\user\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.csproj.CopyComplete
+C:\Users\user\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.exe
+C:\Users\user\Downloads\Maze Project\Maze Project\obj\x86\Debug\Maze Project.pdb
